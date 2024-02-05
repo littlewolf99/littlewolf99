@@ -7,8 +7,8 @@
 
 # Hello! 👋 Who am I? #
 <div>
-- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React, Next, Angular, and Vue.js, as well as back-end technologies like Node.js, Express.js, Python, and PHP<br/>
+- 🔭 Full-stack developer with 10+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
+- 🌱 Proficient in front-end technologies like React, Next, Angular, and Vue.js, as well as back-end technologies like Node.js, Express.js, Python, .NET <br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>

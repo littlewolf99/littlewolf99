@@ -8,11 +8,12 @@
 # Hello! 👋 Who am I?
 
 <div>
-- 🔭 I am a seasoned software engineer with 10 years of experience.  Over the years, I've been fortunate to work on various challenging projects that have not only honed my technical skills but also allowed me to lead and contribute to successful outcomes. Always eager to learn new things and looks for new challenges.  I am ready to contribute my skills and drive impactful results.<br/>
+- 🔭 I am a staff software engineer with 10 years of experience.  Over the years, I've been fortunate to work on various challenging projects that have not only honed my technical skills but also allowed me to lead and contribute to successful outcomes. Always eager to learn new things and looks for new challenges.  I am ready to contribute my skills and drive impactful results.<br/>
+
 - 🌱 Programming Languages: JavaScript, TypeScript, Python, C# <br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+- 👍 Frontend: React, Angular, React Native, Next, Vue<br/>
+- 😍 Backend: Express.js, Django, Flask, ASP .NET<br/>
+- 😉 Deep knowledge about deep learning, artificial intelligence</br>
 
 </div>
 <br/>
@@ -25,10 +26,7 @@
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
-<a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
-<a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
 
 # 💻 My favorite tools and technologies
 

@@ -5,18 +5,19 @@
 <br/><br/>
 <!--suppress HtmlDeprecatedAttribute -->
 
-# Hello! 👋 Who am I? #
+# Hello! 👋 Who am I?
+
 <div>
-- 🔭 Full-stack developer with 10+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React, Next, Angular, and Vue.js, as well as back-end technologies like Node.js, Express.js, Python, .NET <br/>
+- 🔭 I am a seasoned software engineer with 10 years of experience.  Over the years, I've been fortunate to work on various challenging projects that have not only honed my technical skills but also allowed me to lead and contribute to successful outcomes. Always eager to learn new things and looks for new challenges.  I am ready to contribute my skills and drive impactful results.<br/>
+- 🌱 Programming Languages: JavaScript, TypeScript, Python, C# <br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+
 </div>
 <br/>
 
-# Main Skills #
-
+# Main Skills
 
 <a href="https://developer.android.com/reference"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" height="100" title="React"></a>
 <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
@@ -29,8 +30,8 @@
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
 
-
 # 💻 My favorite tools and technologies
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -152,9 +153,7 @@
 </table>
 <br><br>
 
-
 </div>
-
 
 <p align="center">
 
@@ -167,9 +166,7 @@
 
 </p>
 
-
 <a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
-
 
 <!-- activity graph heroku-app start -->
 <p align="center">
@@ -179,15 +176,12 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-
 <p align="center">
 <a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
 <a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
-
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
-
 
 <p align="center">
 <a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
@@ -195,15 +189,14 @@
 <a href="https://github.com/PrinceGoblinTech?tab=followers"><img src="https://img.shields.io/github/followers/PrinceGoblinTech?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
-
 <p align="center">
 <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
+# Reach out to me
 
-# Reach out to me #
 <a href="mailto:kingalexandros8888@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://t.me/princegoblintech"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
 <a href="https://ru.stackoverflow.com/users/371584/princegoblintech"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="en.stackoverflow profile"></a>

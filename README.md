@@ -8,7 +8,7 @@
 # Hello! 👋 Who am I?
 
 <div>
-- 🔭 I am a staff software engineer with 10 years of experience.  Over the years, I've been fortunate to work on various challenging projects that have not only honed my technical skills but also allowed me to lead and contribute to successful outcomes. Always eager to learn new things and looks for new challenges.  I am ready to contribute my skills and drive impactful results.<br/>
+- 🔭 I am a staff software engineer with 8 years of experience.  Over the years, I've been fortunate to work on various challenging projects that have not only honed my technical skills but also allowed me to lead and contribute to successful outcomes. Always eager to learn new things and looks for new challenges.  I am ready to contribute my skills and drive impactful results.<br/>
 
 - 🌱 Programming Languages: JavaScript, TypeScript, Python, C# <br/>
 - 👍 Frontend: React, Angular, React Native, Next, Vue<br/>
